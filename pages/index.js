@@ -3,9 +3,9 @@ import Head from 'next/head'
 
 const Home = () => (
   <div>
-    <h1>Next.js on the [JAMstack](https://jamstack.org)</h1>
+    <h1>Eat It Up Music</h1>
 
-    <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
+    <h3>Welcome 🎉 - our brand new website <a href="https://rec.mastered.to/">mastered.to</a> is currently under construction.</h3>
 
     <style jsx>{`
       :global(html,body) {
