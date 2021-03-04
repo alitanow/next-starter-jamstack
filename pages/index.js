@@ -3,6 +3,11 @@ import Head from 'next/head'
 
 const Home = () => (
   <div>
+  
+        <Head>
+        <title>Eat It Up - Records</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
     <h1>Eat It Up Music</h1>
 
     <h3>Welcome 🎉 - our brand new website <a href="https://rec.mastered.to/">mastered.to</a> is currently under construction.</h3>
